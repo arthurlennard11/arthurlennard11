@@ -1,6 +1,6 @@
 ## Hi there 👋 My name is Arthur Lennard 
 
-### ⚽️ I'm an aspiring soccer analyst who currently attends the University of North Carolina at Chapel Hill and works as the Head of Analytics for the Women's Soccer Team. 
+### ⚽️ I'm an aspiring soccer analyst who currently attends the University of North Carolina at Chapel Hill and works as the Head of Analytics for the Women's Soccer Team 
 
 ### 🔭 I'm currently working on a tactical analysis for UNC Women's Soccer that measures the rate of compactness and compression during different phases of play 
 <!--
